@@ -60,3 +60,5 @@ build/
 
 ## OS Specific
 .DS_Store
+android/.classpath
+android/.classpath
